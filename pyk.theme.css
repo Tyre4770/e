@@ -67,8 +67,8 @@
   --offline-color: #808080;
   --main-font: Aaoctober;
   --code-font: RixHoneyBee;
-  --channels-width: 215px;
-  --members-width: 220px;
+  --channels-width: 240px;
+  --members-width: 230px;
   --backdrop-overlay: rgba(0,0,0,0.8);
   --backdrop-image: var(--background-image);
   --backdrop-position: var(--background-position);
@@ -101,5 +101,4 @@
 }
 
 /* Any custom CSS below here */
-
 
